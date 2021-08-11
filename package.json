@@ -1,0 +1,30 @@
+{
+  "name": "bytehunter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/tans/bytehunter.git"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "monk": "^7.3.4",
+    "node-schedule": "^2.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.62.3",
+    "wechaty-plugin-contrib": "^0.14.23"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.5.1",
+    "prettier": "github:helixbass/prettier#prettier-v2.1.0-dev.100-gitpkg",
+    "prettier-plugin-coffeescript": "^0.1.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
