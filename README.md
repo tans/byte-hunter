@@ -1,6 +1,8 @@
 # byte-hunter
 《字节猎人》源代码
 
+游戏设计仓库
+https://github.com/tans/bytehunter
 
 ## 安装运行
 
